@@ -24,5 +24,5 @@ while True:
     if choise==2:
         break
     print('='*87)
-print(f'{'FINAL BILL AMOUNT (RS.)':<55{final_bill}}')
+print(f'{'FINAL BILL AMOUNT (RS.)':<80{final_bill}}')
 print('='*87)
